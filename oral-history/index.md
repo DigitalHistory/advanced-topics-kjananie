@@ -1,6 +1,6 @@
-# Your Title should go in the appropriate place in `index.html`, not here! Title is itself set only in the `<head>` element
+# The Atom Bombing of Hiroshima: An Oral Account
 
-## Use headings only if you want to have subsections in your essay
+
 
 <div class="sidepanel">
               <!-- This is the div where all the popcorn action will hapen -->
