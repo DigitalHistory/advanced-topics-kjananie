@@ -1,5 +1,4 @@
-# The Atom Bombing of Hiroshima: An Oral Account
-
+# The Atom Bombing of Hiroshima: A Unique Oral Account
 
 
 <div class="sidepanel">
@@ -9,25 +8,23 @@
             </div>
 
 
+The nuclear bomb detonation by the United States over the Japanese cities of Hiroshima and Nagasaki on August 6th and 9th of 1945, are well known to many as the act that supposedly "ended the war". As the narrator in the audio clip remarks <a href="#" onclick="javascript:seek(24)">"the U.S. saw the bombing as shortening the war and saving lives"</a>, however, the instant death toll of about 60 000 - 80 000 people, along with the increase in deaths to 140 000 in the months that followed up, speak otherwise[^first]. As of August 2014, a year before the seventieth anniversary of the end of the war, the number of people acknowledged to have died from the effects of both atomic bombings stood at over 450 000 (292 325 in Hiroshima and 165 409 in Nagasaki)[^second]. The long-lasting effects of the bombing are still seen now, more than seventy years after the end of the Second World War, in the continued monitoring of Japanese atomic bomb survivors, also known as _hibakusha_, for radiation-related health problems[^third].<br>
+<br>
+Of the eye-witness accounts of the Hiroshima bombing, the only surviving account in English is the one provided in the audio clip above. The audio clip contains an interview held by the Morale Division of the United States Strategic Bombing Survey with a "Ms. Palchikoff," who was later identified as Kaleria Palchikoff Drago, a 23-year-old Russian immigrant to Japan, whose family had been fleeing the Bolsheviks in 1921 when they arrived in Japan. Refugees in Japan such as Kaleria's family were known at the time as "White Russians," or in the Japanese term, _Hakkei-Roshiajin_[^fourth]. Also included in the audio clip is a voice-over of Kaleria from 2005, at age 84, 60 years after the bombing, acknowledging that it is in fact her in the audio interview with the United States Strategic Bombing Survey, as well as adding more information about her life leading up to and after the bombing, especially in terms of the effect witnessing such a destructive event had on her. <br>
+<br>
+At the time of the bombing, Kaleria was living in the suburb outside of Hiroshima called Ushita. One of the striking things about Kaleria's account of the event is the way she describes it, the words she uses to describe the victims have much to say about racism that was naturalized at the time, and they also highlight the difference in her account, as an English-speaking non-native of Japan, against the accounts of native Japanese victims and witnesses. Kaleria at once focuses on the colour of the victims as she saw them emerge, <a href="#" onclick="javascript:seek(80)">"Negroes" she calls them, and even goes so far as to declare "they weren't Japanese, they were Negroes"</a>. From the interview, Kaleria seems not to have suffered any severe injuries although she does acknowledge staying in the military hospital for two days, during which time she was able to observe much of the effects the bomb had on the survivors to which she goes into great detail in her oral account at the prompting of the interviewer who asks her to <a href="#" onclick="javascript:seek(102)">describe the burns in detail for "the doctor here"</a>. From the interviewer's question it appears that the United States Strategic Bombing Survey was quite interested in the physical effects the bomb had on its victims, even going so far as to have doctors on hand for their expertise on the subject. <br>
+<br>
+Kaleria's description of the explosion itself as being <a href="#" onclick="javascript:seek(183)">"very hot"</a> from the flash coincides with the picture formed by the United States Strategic Bombing Survey from countless eye-witness accounts, all who relatively described the bomb as "explod[ing] with a tremendous flash of blue-white light," and the flash as lasting a short time "accompanied by intense glare and heat"[^fifth].
+The last question the interviewer poses to Kaleria in 1945 is about the burial method used for the dead victims' bodies; interestingly, he is careful to simply say <a href="#" onclick="javascript:seek(200)">"the people"</a> rather than "victims" or the "deceased," which may point to the unrepentant attitude of the United States government toward the bombings and the destruction they caused. <br>
+<br>
+Finally, at the end of the interview, Kaleria, at age 84, describes her experience with the memory of the bombing after recounting it in the interview for the Survey that first time in 1945. She admits that she <a href="#" onclick="javascript:seek(225)">"very rarely [told] anybody that [she] went through the atom bomb, ever"</a> and attributes this silence to the idea that she "do[es not] want to remember it". She ends by saying "you accept it and you go on". Kaleria's desire to move on and forget is perhaps another signal to the bias in her account as someone who was not directly in Hiroshima during the bombing, was not severely injured, was a non-native resident in Japan at the time and who went on to marry an American soldier and live in the United States, the nation that bombed her home, and start a family. However, Kaleria's desire to forget may also speak to her trauma at seeing and witnessing such a vast amount of destruction and human carnage, and perhaps also to her guilt for leaving Japan, the place where she grew up, for the U.S.  
 
-Add your content here, including _markup_ of **various kinds**. Now you can just write! But you should be aware of a couple of advanced features of markdown:
-- you can embed HTML directly n a markdown file. This is great if you want to add complex attributes like **classes**, e.g. to your `img` tags so that they display properly.
-  - another use of embedded HTML is for funky javascript function links. I've written a simple function that will seek to a particular time code in seconds.  You can call it like this: `<a href="javascript:seek(75)">seek to 1:15</a>`, but `[seek to 1:15](javascript:seek(75))` won't render properly, so you have to type the whole linke in, as seen here: <a href="#" onclick="javascript:seek(75)"> seek to 1:15</a>.
-  - also, Remarkable supports pandoc-style footnotes, which can be helpful sometimes. Here are some examples of footnotes at work:
+[^first]: Justin McCurry, "Hiroshima survivors remember," _The Lancet_ 386, (August 2015): 417-418.
 
-    Footnote 1 link[^first].
+[^second]: Ibid.
 
-    Footnote 2 link[^second].
+[^third]: Gregory Clancey, and Rethy Chhem, "Hiroshima, Nagasaki, and Fukushima," _The Lancet_ 386, (August 2015): 405-406.
 
-    Inline footnote^[Text of inline footnote] definition.
+[^fourth]: Yuji, NAKANISHI. "The Formation and Decline of White Russian Society in Kobe." _Japanese Journal of Human Geography_, no. 56, (2004): 91-107.
 
-    Duplicated footnote reference[^second].
-
-you can learn more about remarkable on [its github page](https://github.com/jonschlinkert/remarkable), and get a fuller sense of the syntax [in the online demo](https://jonschlinkert.github.io/remarkable/demo/)
-
-
-[^first]: Footnote **can have markup**
-
-    and multiple paragraphs.
-
-[^second]: Footnote text.
+[^fifth]: United States Strategic Bombing Survey, _The United States Strategic Bombing Surveys: European war, Pacific war_, (Maxwell Air Force Base, Ala.: Air University Press, 1987): 96-97.
